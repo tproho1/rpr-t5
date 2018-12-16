@@ -1,0 +1,20 @@
+#display {
+    -fx-background-color: lightgreen;
+    -fx-padding: 5px,5px,5px,5px;
+    -fx-max-width: Infinity;
+    -fx-max-height: Infinity;
+}
+
+#equalBtn{
+    -fx-background-color: rgb(230,110,122);
+}
+
+GridPane{
+    -fx-padding: 5px, 5px, 5px, 5px;
+}
+
+Button{
+    -fx-max-width: Infinity;
+
+}
+
